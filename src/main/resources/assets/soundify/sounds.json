@@ -1,0 +1,272 @@
+{
+  "armor_equip": {
+    "subtitle": "subtitles.soundify.armor_equip",
+    "sounds": [
+      {
+        "name": "soundify:armor_equip",
+        "volume": 0.8
+      }
+    ]
+  },
+  "block_break": {
+    "subtitle": "subtitles.soundify.block_break",
+    "sounds": [
+      {
+        "name": "soundify:block_break",
+        "volume": 0.8
+      }
+    ]
+  },
+  "cave_ambience": {
+    "subtitle": "subtitles.soundify.cave_ambience",
+    "sounds": [
+      {
+        "name": "soundify:cave_ambience",
+        "volume": 0.8
+      }
+    ]
+  },
+  "chest_close": {
+    "subtitle": "subtitles.soundify.chest_close",
+    "sounds": [
+      {
+        "name": "soundify:chest_close",
+        "volume": 0.8
+      }
+    ]
+  },
+  "chest_open": {
+    "subtitle": "subtitles.soundify.chest_open",
+    "sounds": [
+      {
+        "name": "soundify:chest_open",
+        "volume": 0.8
+      }
+    ]
+  },
+  "combat_crit": {
+    "subtitle": "subtitles.soundify.combat_crit",
+    "sounds": [
+      {
+        "name": "soundify:combat_crit",
+        "volume": 0.8
+      }
+    ]
+  },
+  "combat_hit": {
+    "subtitle": "subtitles.soundify.combat_hit",
+    "sounds": [
+      {
+        "name": "soundify:combat_hit",
+        "volume": 0.8
+      }
+    ]
+  },
+  "combat_sweep": {
+    "subtitle": "subtitles.soundify.combat_sweep",
+    "sounds": [
+      {
+        "name": "soundify:combat_sweep",
+        "volume": 0.8
+      }
+    ]
+  },
+  "damage": {
+    "subtitle": "subtitles.soundify.damage",
+    "sounds": [
+      {
+        "name": "soundify:damage",
+        "volume": 0.8
+      }
+    ]
+  },
+  "death_sting": {
+    "subtitle": "subtitles.soundify.death_sting",
+    "sounds": [
+      {
+        "name": "soundify:death_sting",
+        "volume": 0.8
+      }
+    ]
+  },
+  "door_close": {
+    "subtitle": "subtitles.soundify.door_close",
+    "sounds": [
+      {
+        "name": "soundify:door_close",
+        "volume": 0.8
+      }
+    ]
+  },
+  "door_open": {
+    "subtitle": "subtitles.soundify.door_open",
+    "sounds": [
+      {
+        "name": "soundify:door_open",
+        "volume": 0.8
+      }
+    ]
+  },
+  "drink": {
+    "subtitle": "subtitles.soundify.drink",
+    "sounds": [
+      {
+        "name": "soundify:drink",
+        "volume": 0.8
+      }
+    ]
+  },
+  "eat": {
+    "subtitle": "subtitles.soundify.eat",
+    "sounds": [
+      {
+        "name": "soundify:eat",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_grass": {
+    "subtitle": "subtitles.soundify.footstep_grass",
+    "sounds": [
+      {
+        "name": "soundify:footstep_grass",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_gravel": {
+    "subtitle": "subtitles.soundify.footstep_gravel",
+    "sounds": [
+      {
+        "name": "soundify:footstep_gravel",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_metal": {
+    "subtitle": "subtitles.soundify.footstep_metal",
+    "sounds": [
+      {
+        "name": "soundify:footstep_metal",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_sand": {
+    "subtitle": "subtitles.soundify.footstep_sand",
+    "sounds": [
+      {
+        "name": "soundify:footstep_sand",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_snow": {
+    "subtitle": "subtitles.soundify.footstep_snow",
+    "sounds": [
+      {
+        "name": "soundify:footstep_snow",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_stone": {
+    "subtitle": "subtitles.soundify.footstep_stone",
+    "sounds": [
+      {
+        "name": "soundify:footstep_stone",
+        "volume": 0.8
+      }
+    ]
+  },
+  "footstep_wood": {
+    "subtitle": "subtitles.soundify.footstep_wood",
+    "sounds": [
+      {
+        "name": "soundify:footstep_wood",
+        "volume": 0.8
+      }
+    ]
+  },
+  "heartbeat": {
+    "subtitle": "subtitles.soundify.heartbeat",
+    "sounds": [
+      {
+        "name": "soundify:heartbeat",
+        "volume": 0.8
+      }
+    ]
+  },
+  "item_pickup": {
+    "subtitle": "subtitles.soundify.item_pickup",
+    "sounds": [
+      {
+        "name": "soundify:item_pickup",
+        "volume": 0.8
+      }
+    ]
+  },
+  "item_use": {
+    "subtitle": "subtitles.soundify.item_use",
+    "sounds": [
+      {
+        "name": "soundify:item_use",
+        "volume": 0.8
+      }
+    ]
+  },
+  "level_up": {
+    "subtitle": "subtitles.soundify.level_up",
+    "sounds": [
+      {
+        "name": "soundify:level_up",
+        "volume": 0.8
+      }
+    ]
+  },
+  "metal_clank": {
+    "subtitle": "subtitles.soundify.metal_clank",
+    "sounds": [
+      {
+        "name": "soundify:metal_clank",
+        "volume": 0.8
+      }
+    ]
+  },
+  "ui_click": {
+    "subtitle": "subtitles.soundify.ui_click",
+    "sounds": [
+      {
+        "name": "soundify:ui_click",
+        "volume": 0.8
+      }
+    ]
+  },
+  "ui_hover": {
+    "subtitle": "subtitles.soundify.ui_hover",
+    "sounds": [
+      {
+        "name": "soundify:ui_hover",
+        "volume": 0.8
+      }
+    ]
+  },
+  "water_splash": {
+    "subtitle": "subtitles.soundify.water_splash",
+    "sounds": [
+      {
+        "name": "soundify:water_splash",
+        "volume": 0.8
+      }
+    ]
+  },
+  "xp_pickup": {
+    "subtitle": "subtitles.soundify.xp_pickup",
+    "sounds": [
+      {
+        "name": "soundify:xp_pickup",
+        "volume": 0.8
+      }
+    ]
+  }
+}
