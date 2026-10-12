@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "soundify",
+  "version": "${version}",
+  "name": "Soundify Reimagined",
+  "description": "An original client-side sound overhaul with enhanced UI, combat, item, block, and ambience audio.",
+  "authors": ["IcyWinds"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": ["com.icywinds.soundify.SoundifyMod"],
+    "client": ["com.icywinds.soundify.SoundifyClient"]
+  },
+  "mixins": ["soundify.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.5",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
